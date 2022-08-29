@@ -1,6 +1,6 @@
 /* particle styles */
   canvas {
-    display: block;
+    display: flex;
   } /* ---- particles.js container ---- */
   #particles-js {
     width: 100%;
